@@ -1,0 +1,75 @@
+Shubham Kumar
+Full Stack Developer & Software Engineer
+Email: shubhamsinghlbps@gmail.com
+Phone: +91 - 6263893959
+LinkedIn: https://linkedin.com/in/shubham-kumar6263/
+GitHub: https://github.com/shubhamkumar2006
+Location: Phagwara, Punjab / Aurangabad, Bihar
+
+==================================================
+SUMMARY & SKILLS
+==================================================
+Languages: C++, Python, Java, JavaScript, TypeScript, C
+Tools & Platforms: Node.js, PostgreSQL, REST APIs, MongoDB, Docker, GitHub, Postman
+Frameworks: Express.js, React.js, Next.js, TailwindCSS
+Core CS: Data Structures & Algorithms, Object-Oriented Programming (OOP), System Design, Hashing, Blockchain Consensus
+Soft Skills: Problem-Solving, Team Collaboration, Time Management, Self-Learning
+
+==================================================
+PROJECTS
+==================================================
+1. Developer Collaboration & Project Management Platform
+   • Built scalable full-stack project platform supporting 100+ users with 95% workflow efficiency.
+   • Implemented secure authentication and RBAC with 3+ roles and comprehensive access control.
+   • Designed RESTful APIs for 5+ core modules, reducing data management time by 40%.
+   • Integrated Redis and background workers, improving notification processing speed by 60%.
+   • Tech used: React.js, Node.js, Express.js, TypeScript, PostgreSQL, Redis, REST APIs, JWT, RBAC.
+
+2. Smart Hotel Booking Platform
+   • Created a full-stack hotel booking platform, improving property discovery and reservation efficiency by 40%.
+   • Configured secure authentication and RBAC for customers, hosts, and administrators, strengthening access.
+   • Leveraged Redis-based locking and database transactions, improving concurrent booking reliability by 70%.
+   • Engineered booking workflows with availability checks, reducing double-booking risks by 90%.
+   • Tech used: React.js, TypeScript, Node.js, Express.js, PostgreSQL, Redis, JWT, REST APIs.
+
+3. Blockchain Implementation System
+   • Architected a blockchain system in C++ to store transaction data across blocks, improving security by 40%.
+   • Integrated hashing and mining mechanisms to maintain integrity and validate blocks, increasing reliability 60%.
+   • Optimized OOP concepts and data structures to design a blockchain, improving efficiency by 35%.
+   • Deployed transaction validation and proof-of-work consensus, strengthening blockchain security.
+   • Tech used: C++, OOP, Hashing, Blockchain, Data Structures.
+
+==================================================
+TRAINING
+==================================================
+SPLIN TECHNOLOGY | Data Structure And Algorithm (Jun 2026 – Jul 2026)
+• Strengthened problem-solving thinking skills through intensive training in Data Structures and Algorithms.
+• Developed proficiency in Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hashing, and Recursion.
+• Applied Dynamic Programming, Backtracking and Binary Search techniques to solve complex coding problems.
+• Improved code optimization skills by analysing time and space complexity.
+• Solved a wide range of coding problems through hands-on practice, strengthening interview preparation.
+
+==================================================
+CERTIFICATIONS
+==================================================
+• Oracle Data Platform 2026 Certified Foundations Associate | Oracle (Apr 2026)
+• SQL Basic Skill Certification in Database Queries | HackerRank (Jul 2026)
+• JavaScript Basic Skill Certification in Web Development | HackerRank (Feb 2026)
+
+==================================================
+ACHIEVEMENTS & BADGES
+==================================================
+• Awarded 4-Star Cpp Programming Badge on HackerRank for strong coding performance (Aug 2024 – Present)
+• Awarded 100 Days Badge on LeetCode for maintaining consistent problem-solving of Data Structures and Algorithms (Sep 2024 – Present)
+
+==================================================
+EDUCATION
+==================================================
+Lovely Professional University (Phagwara, Punjab)
+Bachelor of Technology - Computer Science and Engineering; CGPA: 7.77 (Aug 2024 – Present)
+
+S. Sinha College (Aurangabad, Bihar)
+Intermediate; Percentage: 78.6% (Apr 2022 – May 2023)
+
+Lord Buddha Public School (Aurangabad, Bihar)
+Matriculation; Percentage: 78.8% (Apr 2020 – May 2021)
